@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+p{
+    color: blue;
+}
+img{
+    display: flex;
+}
+h1{
+    color: brown;
+    text-align: center;
+    background-color:whitesmoke;
+}
+img{
+    width: 300px;
+}
+#buy{
+    position: static;
+  border: 3px solid #73AD21;
+}
+label{
+    color: blue;
+}
+h3{
+    color: blanchedalmond;
+}
+li{
+    color: blanchedalmond;
+}
