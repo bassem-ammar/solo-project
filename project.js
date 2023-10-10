@@ -80,7 +80,7 @@ div.style.display='block'
         display=1
     }
 }
-var div2 = document.getElementById('client2'); // Get the form for product 2
+var div2 = document.getElementById('client2'); 
 var display2 = 0;
 
 div2.addEventListener('submit', function (e) {
